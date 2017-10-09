@@ -1,4 +1,6 @@
 # JSOS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjsos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjsos?ref=badge_shield)
+
 
 An operating system written in JavaScript
 
@@ -34,3 +36,5 @@ The kernel, C library, compiler and JavaScript VM are licensed under the Simplif
     either expressed or implied, of the FreeBSD Project.
 
 The kernel contains some code from [とあるOS](https://github.com/klange/osdev), which is under the NCSA license.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjsos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjsos?ref=badge_large)
